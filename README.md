@@ -62,35 +62,54 @@ D7 = X Y Z
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+Developed by: KAVIYA SNEKA M
+
+RegisterNumber:  23003642
+
+Code:
+
+Decoder:
+
+![DECODER CODE](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/31d30a22-1773-416c-b451-b6e62b3e1dac)
+
+Encoder:
+
+![ENCODER CODE](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/b476b390-3815-4378-b83c-92671c91191c)
+
+RTL Diagram:
+
+Decoder:
+
+![DECODER LOGIC](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/3105358d-55db-47c2-b4e6-acc5b961dcb0)
+
+Encoder:
+
+![ENCODER LOGIC](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/ff26958d-19ac-499d-b0d6-00f9ab977708)
+
+Truth table:
+
+Decoder:
+
+![DECODER T](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/7b366f26-e197-494e-8151-f14e31fa8e52)
+
+Encoder:
+
+![ENCODER TT](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/02d646db-8796-4316-b410-0fb64b73d4b4)
 
 
+Output:
 
+Decoder:
 
+![DECODER TIME](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/1291ea27-eaa7-4130-9754-d83e9b154f65)
 
+Encoder:
 
-### RTL LOGIC  
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
+![ENCODER TIME](https://github.com/kaviya546/Experiment-08-Encoders-and-decoders-/assets/150368823/9cf0cc69-10df-4cb8-a13f-048c57d50b8b)
 
 
 
 ### RESULTS 
+
+Thus the program to desing encoder and decoder is done
